@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IndiceSalud</string>
+    <string name="ingresoRut">Ej: 12.345.678-9</string>
+    <string name="ingresoNombre">Ex: Jonathan</string>
+    <string name="ingresoEdad">Ex: 22</string>
+    <string name="ingresoAltura">Enter high value in meters: 1.67</string>
+    <string name="ingresoPeso">Enter weight with dec ex: 76.8</string>
+    <string name="enviar">Send</string>
+</resources>

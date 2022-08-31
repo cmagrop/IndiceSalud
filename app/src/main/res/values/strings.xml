@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IndiceSalud</string>
+    <string name="ingresoRut">Ej: 12.345.678-9</string>
+    <string name="ingresoNombre">Ej: Jonathan</string>
+    <string name="ingresoEdad">Ej: 22</string>
+    <string name="ingresoAltura">Ingrese altura en metros ej: 1.67</string>
+    <string name="ingresoPeso">Ingrese peso con decimales ej: 76.8</string>
+    <string name="enviar">Enviar</string>
+</resources>
